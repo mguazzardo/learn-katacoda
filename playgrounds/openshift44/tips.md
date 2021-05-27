@@ -1,7 +1,7 @@
 Before you get started we recommend reading the following tips. They explain
 a bit about how the playground environment is setup and what access you have.
 
-## Logging in to the Cluster via Dashboard
+## Logging in to the Cluster via Dashboard new
 
 Click the [Console](https://console-openshift-console-[[HOST_SUBDOMAIN]]-443-[[KATACODA_HOST]].environments.katacoda.com) tab to open the dashboard. 
 
